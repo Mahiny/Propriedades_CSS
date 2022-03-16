@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body {
+    background-color: #131313;
+
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+h2 {
+    color: steelblue;
+}
+p {
+    font-family: 'Roboto';
+    color: #bdbdbd;
+}
+.media-picture {
+    background: url('../img/vingg.jpg') no-repeat;
+    height: 400px;
+}
+
+.review-score {
+    color: white;
+    background-color: #e6bd09;
+    padding: 12px;
+}
+
+a {
+    color: yellow;
+}
